@@ -96,4 +96,4 @@ Please cite the article above if you use this code. Citation metadata are in `CI
 ## Contact
 
 Jifar Wakuma Ayana, University of Science and Technology Beijing.
-Corresponding authors: Huansheng Ning (ninghuansheng@ustb.edu.cn) and Jianguo Ding (jianguo.ding@bth.se).
+d202561032@xs.ustb.edu.cn
