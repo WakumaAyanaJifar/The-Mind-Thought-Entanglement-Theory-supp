@@ -42,8 +42,8 @@ The model makes two kinds of claim.
 Tested with Python 3.12, NumPy 2.4, SciPy 1.17 and Matplotlib 3.10.
 
 ```bash
-git clone https://github.com/WakumaAyanaJifar/The-Mind-Thought-Entanglement-Theory.git
-cd The-Mind-Thought-Entanglement-Theory
+git clone https://github.com/WakumaAyanaJifar/The-Mind-Thought-Entanglement-Theory-supp.git
+cd The-Mind-Thought-Entanglement-Theory-supp
 pip install -r requirements.txt
 python run_all.py            # everything, about 25 min on one core
 python run_all.py --quick    # about 5 min; skips the two recovery studies and draws Fig. 4 from expected_output/
